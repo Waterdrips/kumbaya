@@ -12,6 +12,7 @@ maintainers:
  - viveksyngh
  - Waterdrips
  - utsavanand2
+ - carlosedp
 
 features:
  - dco_check
@@ -36,6 +37,7 @@ mergers:
  - viveksyngh
  - Waterdrips
  - utsavanand2
+ - carlosedp
 
 must_approve:
 - alexellis
